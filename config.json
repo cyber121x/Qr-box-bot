@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "SHAHADAT Siyam",
   "version": "2.0.1",
   "language": "en",
   "DeveloperMode": false,
@@ -11,9 +11,9 @@
   "PASSWORD": "your_password",
   "OTPKEY": "",
   "BOTNAME": "─꯭─⃝‌‌𝐒iyam 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
-  "PREFIX": "/",
+  "PREFIX": "!",
 
-  "reactUnsend": ["😡", "🤧", "😤", "😠"],
+  "reactUnsend": ["🙉", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
     "61550274716406",
@@ -23,7 +23,7 @@
   "NDH": [
     "100044713412032"
   ],
-  "adminOnly": false,
+  "adminOnly":. siyam,
   "ndhOnly": false,
   "adminPaOnly": false,
 
