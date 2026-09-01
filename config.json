@@ -23,7 +23,7 @@
   "NDH": [
     "100044713412032"
   ],
-  "adminOnly":. siyam,
+  "adminOnly":.false,
   "ndhOnly": false,
   "adminPaOnly": false,
 
